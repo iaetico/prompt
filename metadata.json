@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Generador de Prompts Perfectos",
+  "description": "Una aplicación para construir, generar y almacenar prompts perfectos para modelos de IA, especificando rol, tarea, contexto, formato y tono.",
+  "requestFramePermissions": []
+}
